@@ -156,3 +156,5 @@ List of 5
   ..$ Day    : int [1:30] 1 2 3 4 5 6 7 8 9 10 ...
 
 ```
+
+Credit: Roger D. Peng, Associate Professor of Biostatistics at the Johns Hopkins Bloomberg School of Public Health 
