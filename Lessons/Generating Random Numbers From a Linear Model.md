@@ -18,7 +18,7 @@ and e is normal random distribution with mean =0 and sd = 2
 > plot(x, y)
 
 ```
-![](01.png)
+![](https://github.com/javanmehri/R/blob/master/Lessons/img/01.png)
 
 What if x is binary random variable? For example maybe it represents gender or maybe it’s some treatment versus control.
 
@@ -38,4 +38,4 @@ It generates 100 binomial random variables with n = 1 and p = 0.5 so probability
 > plot(x, y)
 
 ```
-![](02.png)
+![](https://github.com/javanmehri/R/blob/master/Lessons/img/02.png)

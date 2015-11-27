@@ -16,7 +16,6 @@ Often code runs fine once, but what if you have to put it in a loop for 1,000 it
 - Remember: Premature optimization is the root of all evil
 - Measure (collect data), don’t guess.
 
-[========]
 
 ## Using system.time()
 

@@ -21,4 +21,4 @@ To simulate this we need rpois function:
 > plot(x, y)
 
 ```
-![](03.png)
+![](https://github.com/javanmehri/R/blob/master/Lessons/img/03.png)
